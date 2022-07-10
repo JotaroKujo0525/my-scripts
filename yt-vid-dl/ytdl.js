@@ -14,7 +14,7 @@ prompt.run()
 
 	  const prompt = new Input({
 		  name: 'name',
-		  message: 'Please put the desired name you want for the file with no spaces'
+		  message: 'Please put the desired name you want for the file'
 	  })
 
 	  prompt.run()
